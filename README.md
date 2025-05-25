@@ -56,7 +56,34 @@
 </a>
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ferchisqs&theme=react-dark" alt="Activity Graph"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ferchisqs&theme=algolia" alt="GitHub Streak"/>
+</p>
+
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+## ✨ Favorite Quote
+
+<p align="center">
+  <em>"Everything you lose is a step you take." – Taylor Swift</em>
+</p>
+
+<p align="center" style="margin: 20px 0;">
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhqN2Zvdm1xeHJ4NnllYXF2ZW9ldWhheGZicjE3MjhyZTJzcWRlaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5IBUmuEiSbOrMMsVDj/giphy.gif" 
+    alt="Taylor Swift GIF" 
+    width="300"
+    />
+</p>
+
+
+
 
 ## 📫 Contact
 <p align="center">
