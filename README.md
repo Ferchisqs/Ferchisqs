@@ -69,21 +69,27 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## ✨ Favorite Quote
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="280" valign="middle">
+        <img align="left" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhqN2Zvdm1xeHJ4NnllYXF2ZW9ldWhheGZicjE3MjhyZTJzcWRlaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5IBUmuEiSbOrMMsVDj/giphy.gif" alt="Taylor Swift GIF"/>
+      </td>
+      <td valign="middle" style="padding-left: 20px; max-width: 500px; text-align: left;">
+        <blockquote style="margin: 0;">
+          <p style="font-style: italic; font-size: 1.4em; margin: 0 0 0.2em 0;">
+            "Everything you lose is a step you take."
+          </p>
+          <p style="font-weight: bold; font-size: 1.2em; margin: 0;">
+            — Taylor Swift
+          </p>
+        </blockquote>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <em>"Everything you lose is a step you take." – Taylor Swift</em>
-</p>
-
-<p align="center" style="margin: 20px 0;">
-  <img 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhqN2Zvdm1xeHJ4NnllYXF2ZW9ldWhheGZicjE3MjhyZTJzcWRlaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5IBUmuEiSbOrMMsVDj/giphy.gif" 
-    alt="Taylor Swift GIF" 
-    width="300"
-    />
-</p>
-
-
-
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 📫 Contact
 <p align="center">
