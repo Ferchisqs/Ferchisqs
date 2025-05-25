@@ -16,8 +16,21 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### Spotify Playing 🎧
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31cjdsxlrh3lmhbcahtmmlxyaehq&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31cjdsxlrh3lmhbcahtmmlxyaehq)
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<table>
+  <tr>
+    <td>
+      <a href="https://open.spotify.com/track/5Bedn0svl0ZD7RGmJkmKKw">
+        <img src="https://images.genius.com/ab9188e812405ef9aa2374411bbb3a92.1000x1000x1.png" width="120" />
+      </a>
+    </td>
+    <td>
+      <strong>How Did It End?</strong><br>
+      Taylor Swift – <em>The Tortured Poets Department: The Anthology</em><br>
+      <a href="https://open.spotify.com/track/5Bedn0svl0ZD7RGmJkmKKw">🎶 Listening Now </a>
+    </td>
+  </tr>
+</table>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
