@@ -1,7 +1,8 @@
-<h1 align="center">Hello there!, I´m Mafer Suárez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello there! I´m Mafer Suárez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 About Me
 <img align="right" width=300px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHlvaWVoaHlyZ2Q2MnI1bDFmZXVwOHJpOWwzdWM4MXE2dW9pMG9zNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 💡 &nbsp;I’m currently studying Software Development Engineering.\
@@ -12,10 +13,9 @@
 🎯 &nbsp;I’m very self-demanding and always aiming to improve.\
 🎓 &nbsp;I’m close to finishing my degree and I’m especially interested in continuous learning and guidance in programming.
 
-
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-### Spotify Playing 🎧
+## 🎧 Spotify Playing
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <table>
   <tr>
@@ -34,7 +34,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-#### 🔧 Languages (and Markup/Styling)
+## 🔧 Skills
 
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -48,10 +48,33 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-#### GitHub Stats 📈
+## 📈 GitHub Stats
 <p align="center">
 <a href="https://github.com/Ferchisqs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ferchisqs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferchisqs&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+## 📫 Contact
+<p align="center">
+<br>
+<a href="https://www.instagram.com/mariferqs_/?hl=es">
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/maria-fernanda-quezada-suárez-b7100024a">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>&nbsp;
+<a href="mailto:mariferqs2004@gmail.com?subject=Hello%20Fer!">
+  <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>&nbsp;
+</p>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<p align="center">
+  <strong>✨ Thank you for visiting my profile! Have a great day! ✨</strong><br>
+  <img src="https://media.giphy.com/media/agR1cmIEcIfRy2zwbz/giphy.gif" width="200">
 </p>
