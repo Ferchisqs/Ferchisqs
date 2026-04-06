@@ -5,7 +5,7 @@
 ## 👨🏻‍💻 About Me
 <img align="right" width=300px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHlvaWVoaHlyZ2Q2MnI1bDFmZXVwOHJpOWwzdWM4MXE2dW9pMG9zNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-💡 &nbsp;I’m currently studying Software Development Engineering.\
+💡 &nbsp;Software Engineering graduate.\
 🎨 &nbsp;In my free time, I really enjoy both digital and traditional drawing.\
 🌐 &nbsp;I love learning new languages and reading books.\
 🖌️ &nbsp;I’m also passionate about design, and I’m good at promoting and sometimes socializing.\
