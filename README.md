@@ -49,13 +49,13 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 📈 GitHub Stats
-<p align="center">
+[<p align="center">
 <a href="https://github.com/Ferchisqs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ferchisqs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferchisqs&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
+](url)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ferchisqs&theme=react-dark" alt="Activity Graph"/>
