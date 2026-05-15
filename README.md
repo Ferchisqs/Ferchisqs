@@ -111,5 +111,5 @@
 
 <p align="center">
   <strong>✨ Thank you for visiting my profile! Have a great day! ✨</strong><br>
-  <img src="https://media.giphy.com/media/agR1cmIEcIfRy2zwbz/giphy.gif" width="200">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHg5MGh3aWthczN1NW03am9taGk3b3FvcjI1OG1yaGR4aXhoNnZoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LvtxIRg1Ly96E/giphy.gif" width="200">
 </p>
